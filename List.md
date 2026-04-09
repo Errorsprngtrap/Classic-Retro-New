@@ -9,7 +9,7 @@ US Papyrus : 25 Wins
 Fell Sans : 40 Wins
 Outer Sans : 60 Wins
 LB : 90 Wins + Some EXP on snas man
-Disbeef : 120 Wins
+Disbeef : 130 Wins (to compensate the lack of badge)
 Distrust :120 Wins + swap snasn badge
 FSE : 160 Wins
 DustSwap Papyrus :  200 Wins + exp on swap Papyrus 
@@ -64,3 +64,13 @@ Neo alphys and mettaton : gamepass + 300 Wins
 shit to keep in mind
 power rangers skin for little
 BallonBoy skin for little _ no idea for 5th up_
+
+
+
+thing proposed by wd that could coem to ulc 2
+Gaster blaster sans
+Understeam sans
+Underkeep sans
+Oceantale
+Dancetale
+Gastale

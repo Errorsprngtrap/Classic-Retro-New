@@ -10,7 +10,7 @@ Attack :
       Fire 2 bullet that are small blaster if teh blaster it someone it will soon after do a 360 and fire on said person if they dont they fire on a random player
       Variant : Counter if u get hit during the counter time a bang flag come out of the gun anfd people get blue bone empaled , if you miss the gun just shoot a defeated bang flag 
 - [ ] 2:Blaster :
-      Puke Lego where you clcik 
+      Puke Lego where you click 
 - [ ] 3:gloubiboulga
       eat up to 3 time to regain stam and gain a slight stam regen buff
 - [ ] 4:utility bullshit
@@ -65,6 +65,9 @@ Upgrade :
 		no more weapon: this is a counter if someone it you theyre weapon will be stuck in you until the full timer of you transformation is passed or when someone else hti you 
 	
 	Whampire
+		Vampire lunge : lunge foward if you hit someone drain theyre hp for some stam anbd give the opponent slowness for a bit.
+		
+		
 		Gravattack
 		Gutrot
 - [ ] 5:The little God :
