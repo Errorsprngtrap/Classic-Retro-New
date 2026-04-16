@@ -1,7 +1,7 @@
 HP 1
 Stamina : 120
 Dodge : yes
-Defense 0 :
+Defense 0.01 :
 
 Passive : 
 

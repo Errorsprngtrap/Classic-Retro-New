@@ -1,7 +1,7 @@
 HP 1
 Stamina : 120
 Dodge : yes
-Defense 0.1 :
+Defense 0.01 :
 
 Passive : 
 	Lazyman : when sans doesn't move he gain more stam then other character that dont move

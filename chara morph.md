@@ -10,3 +10,8 @@ killer sans
 GT Frisk
 betty 
 epic chara
+
+extra :
+johnny 
+father pucci
+dio
