@@ -7,18 +7,17 @@ Passive :
 	Lazyman : when sans doesn't move he gain more stam then other character that dont move
 
 Attack :
-- [ ] 1:Bonerush:
-	- [ ] Send a rush a bone at pretty fast Speed
-	- [ ] variant : send bone from the sky falling from you to where you click
-- [ ] 2: blaster :
-	- [ ] those blaster are thin and dont cover a large area but have short cd 
-	      variant : summon 2 blaster at your side 
+- [x] 1:Bonerush:
+	- [x] Send a rush a bone at pretty fast Speed
+- [x] 2: blaster :
+	- [x] those blaster are thin and dont cover a large area but have short cd 
+	- [x] variant : summon 2 blaster at your side 
 - [ ] 3: Force :
 	- [ ] send player away where you decide 
 	- [ ] variant : do a shrug if the opponent hit  you slam then on the ground , if its a projectile you will send it back to the chara in question 
 	      under low stam sans will just grab the human and force them into the roof making them after fall back and bounce on the floor
 - [ ] 4:Do You Like Platformer : 
-      sans spawn a bunch of platform that come from the wall while bone start to rise from the ground making the chara team forced to use the platform to move and avoid sans attack (last 20 sec and have heavy cd) (the platform move)
+      sans spawn a bunch of platform that come from the wall while bone start to rise from the ground making the chara team forced to use the platform to move and avoid sans attack (last 20 sec and have heavy cd) (the platform move) (during that time sans cannot regain stam)
 - [ ] 5:funny bone:
       send a bone where you click in arch movement then when the bone hit the ground a huge bonezone spawn
 
