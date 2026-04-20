@@ -18,7 +18,7 @@ Attack :
 	      under low stam sans will just grab the human and force them into the roof making them after fall back and bounce on the floor
 - [ ] 4:Do You Like Platformer : 
       sans spawn a bunch of platform that come from the wall while bone start to rise from the ground making the chara team forced to use the platform to move and avoid sans attack (last 20 sec and have heavy cd) (the platform move) (during that time sans cannot regain stam)
-- [ ] 5:funny bone:
+- [x] 5:funny bone:
       send a bone where you click in arch movement then when the bone hit the ground a huge bonezone spawn
 
 
