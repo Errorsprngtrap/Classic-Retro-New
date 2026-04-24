@@ -55,3 +55,14 @@ Backboen : sans send bone to teh chara team member taht is the most aloen from t
 Win kill : 
 Spare Kill anim 
 CXhara on teh floor sans approach blast
+
+
+
+ ------------------------------------------rework start here
+HP 1
+Stamina : 120
+Dodge : yes
+Defense 0.01 :
+
+Passive :
+	1 less : for every cchara team member killed sans will get a bonus in is stam regen (this bonus can bypass the normal stam bonus of standing still) for 6 sec and for 10 sec will have a tad shorter cooldown
