@@ -65,4 +65,16 @@ Dodge : yes
 Defense 0.01 :
 
 Passive :
-	1 less : for every cchara team member killed sans will get a bonus in is stam regen (this bonus can bypass the normal stam bonus of standing still) for 6 sec and for 10 sec will have a tad shorter cooldown
+	1 less : for every chara team member killed sans will get a bonus in is stam regen (this bonus can bypass the normal stam bonus of standing still) for 6 sec and for 10 sec will have a tad shorter cooldown
+
+Attacks:
+- [ ] Rush of bone :
+      main :send a classic rush of bone 
+      alt:
+- [ ] bonejump:
+      main : launh a bonejump if the jump is still on the map after é sec you can press the attack again to make the bone from the jump,tqrget ranom chara member
+- [ ] Force :
+      send player away (towar where your looking)
+      alt human : if hit sans wil counter chara by impalingthem with a bone , in case of low tam sans just throw away he chara which make tem bounce (give iframe to chara in that case), if sans miss he will use the stamina that the attack is supposed to consume and use the amount of stam a full dodge take + 5
+      
+      alt projectile:just send back the projectile use 5 stam
