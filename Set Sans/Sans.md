@@ -70,11 +70,20 @@ Passive :
 Attacks:
 - [ ] Rush of bone :
       main :send a classic rush of bone 
-      alt:
 - [ ] bonejump:
       main : launh a bonejump if the jump is still on the map after é sec you can press the attack again to make the bone from the jump,tqrget ranom chara member
 - [ ] Force :
       send player away (towar where your looking)
-      alt human : if hit sans wil counter chara by impalingthem with a bone , in case of low tam sans just throw away he chara which make tem bounce (give iframe to chara in that case), if sans miss he will use the stamina that the attack is supposed to consume and use the amount of stam a full dodge take + 5
-      
-      alt projectile:just send back the projectile use 5 stam
+      alt human : if hit sans will counter chara by impalingthem with a bone , in case of low tam sans just throw away he chara which make tem bounce (give iframe to chara in that case), if sans miss he will use the stamina that the attack is supposed to consume and use the amount of stam a full dodge take + 5
+      alt projectile: just send back the projectile use 5 stam if sans miss he will dodge and loose 5 extra stam
+- [ ] We really needed a map attack uh?:
+      main platform star to come from the wall before the floor get covered of bone (during taht moment sans stam regen will not be able to gop above half )
+      alt: this version is automatic platform move ect and blaster automaticly create random line 5 time before the attack stop
+- [ ] Blaster:
+      main: Summon 2 blaster at your side that fire toward where you click
+
+
+
+
+
+slam dassh: yuou dash foward or tp fioward if someone is in range sans tp above them and slam then in the ground
