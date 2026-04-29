@@ -81,6 +81,7 @@ Attacks:
       alt: this version is automatic platform move ect and blaster automaticly create random line 5 time before the attack stop
 - [ ] Blaster:
       main: Summon 2 blaster at your side that fire toward where you click
+      Alt: summon a big blaster above sans that will follow your mouse for 5 sec if you dont press your mouse before thoose 5 sec the blaster will fire automatickly
 
 
 
