@@ -23,4 +23,5 @@ Attack :
       you get stun and a warning appears where you click , sans jump leaving behind him a few bone , then he do a Mario but slam on the ground of where he clicked which make bone rise around swap 
 
 Upgrades:
+- [ ] Dodging expert : sans will gain a dodge meter if its full sans will dodge the next blow if he isn't using any move that make him unable to move (the meter fill up by sucessfully landing attack)
 - [ ] Armored : you now have an armor defense go up to .15
