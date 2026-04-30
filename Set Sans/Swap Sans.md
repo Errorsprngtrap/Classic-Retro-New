@@ -18,4 +18,6 @@ Attack :
 - [ ] Bone Boomerang:
       Send a single blue bone (any player hit by the bone will get blue soul), if the bone hit a wall it will fire randomly white and blue bone from the wall to a random position
       
-      if the attack is reused while the bone is still moving then it will turn white and come back to you while doing that the boen will make white bone rise from the ground (until the bone came back to you the attack cannot be reused)
+      if the attack is reused while the bone is still moving then it will turn white and come back to you while doing that the boen will make white bone rise from the ground (until the bone came back to you the attack cannot be reused)\
+- [ ] Great jump:
+      you get stun and a warning appeasr where you clcik , sans jump leaving behind him a few bone , then he do a mario but slam on the ground of where he clciked wich make bone rise around swap 
