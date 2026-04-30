@@ -1,5 +1,6 @@
 # Sans Team:
-Little : Free
+Pacifist Sans:Free
+Little : ????
 Negatale Sans : 5 Wins
 Horror Sans : 10 Wins
 Swap Sans :15 Wins
@@ -26,7 +27,7 @@ Insanity : 700 Wins
 Epic : 800 Wins
 Hyper : 900 Wins + hyperdust badge
 Error : 950 Wins
-Ink
+Ink: 950 wins
 
 Reset :
 Axetale Sans : 5 Wins
@@ -35,7 +36,7 @@ Undyne : 140 Wins
 Altertale Toriel : 220 Wins
 Possesion : 320 Wins
 DustDust : 375 Winsn+ exp on dust
-Underworld Sans $%)
+Underworld Sans :400
 Gaster : 500 wins + gaster badge 
 Echo sans : 550 Wins + gaster exp
 Cross 600
