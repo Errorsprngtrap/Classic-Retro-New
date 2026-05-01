@@ -82,9 +82,41 @@ Attacks:
 - [ ] Blaster:
       main: Summon 2 blaster at your side that fire toward where you click
       Alt: summon a big blaster above sans that will follow your mouse for 5 sec if you dont press your mouse before thoose 5 sec the blaster will fire automatickly
+- [ ] Throw the bone:
+      let you throw up to 4 bone in chain :
+      bone mode 1 when the bone hit the floor spawn 3 blaster that will blast around where the bone fall
+      bone mode @ spawnm abonezone where the bone have fall
+- [ ] Dont sqay i didnt warn you :
+      a circle appear around where sans click and do warning thing for like 2 sec if a chara is in it they get force in the air blasted then unforced
+
+
+Phase 2:
+HP 1
+Stamina : 120
+Dodge : yes
+Defense 0.01 :
+
+Passive :
+	1 less : for every chara team member killed sans will get a bonus in is stam regen (this bonus can bypass the normal stam bonus of standing still) for 6 sec and for 10 sec will have a tad shorter cooldown
+
+Attacks:
+- [ ] Gravity pull: 
+      a warning will appear around sans and he will get blue outline and if after 2 sec chara are still in the warning they will get pull toward sans then throw into a wall causing 8 pure damage no kr
+- [ ] Slam dash :
+       you dash forward or tp forward if someone is in range sans tp above them and slam then
+       in the ground
+- [ ] Blaster  :
+       Blaster spam: can be hold if not hold spam quickly lot of small blaster if not held spawn less and less quick bigger one
 
 
 
 
 
-slam dassh: yuou dash foward or tp fioward if someone is in range sans tp above them and slam then in the ground
+
+
+
+
+
+
+
+
