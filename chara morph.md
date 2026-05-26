@@ -11,6 +11,9 @@ GT Frisk
 betty 
 epic chara
 
+Reset:
+Goat frisk
+
 extra :
 johnny 
 father pucci
