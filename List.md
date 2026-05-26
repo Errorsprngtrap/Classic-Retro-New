@@ -61,11 +61,9 @@ Neo alphys and mettaton : gamepass + 300 Wins
 
 
 
-
 shit to keep in mind
 power rangers skin for little
 BallonBoy skin for little _ no idea for 5th up_
-
 
 
 thing proposed by wd that could coem to ulc 2
