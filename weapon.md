@@ -24,4 +24,5 @@ glitch knife
 
 extra:
 Stop sign 
-
+Dogamy's axe
+Mad Mew Mew's staff
