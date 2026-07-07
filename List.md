@@ -30,46 +30,46 @@
 - Ink: 950 wins
 
 Reset :
-Axetale Sans : 5 Wins
-Bad time duo : 50 Wins + exp on sans and us papyrus
-Undyne : 140 Wins
-Altertale Toriel : 220 Wins
-Possesion : 320 Wins
-DustDust : 375 Winsn+ exp on dust
-Underworld Sans :400
-Gaster : 500 wins + gaster badge 
-Echo sans : 550 Wins + gaster exp
-Cross 600
-SSC Core : 650 Wins
-Red : 700 Wins
-BTT : 725 Wins + sans exp + us paps exp + SSC exp
-GT Snbas : 775 Wins + sans exp
-Delta : 775 Wins + sans exp
-Dustbelief Papyrus : 825 Wins + exp on dust and papyrus
-Devasted judgement Dust  : 850 Wins + dust exp
-Dusttrust : 875 Wins 
-Fatal : 900 Wins
-Reaper : 999 Wins
+- Axetale Sans : 5 Wins
+- Bad time duo : 50 Wins + exp on sans and us papyrus
+- Undyne : 140 Wins
+- Altertale Toriel : 220 Wins
+- Possesion : 320 Wins
+- DustDust : 375 Winsn+ exp on dust
+- Underworld Sans :400
+- Gaster : 500 wins + gaster badge 
+- Echo sans : 550 Wins + gaster exp
+- Cross 600
+- SSC Core : 650 Wins
+- Red : 700 Wins
+- BTT : 725 Wins + sans exp + us paps exp + SSC exp
+- GT Snbas : 775 Wins + sans exp
+- Delta : 775 Wins + sans exp
+- Dustbelief Papyrus : 825 Wins + exp on dust and papyrus
+- Devasted judgement Dust  : 850 Wins + dust exp
+- Dusttrust : 875 Wins 
+- Fatal : 900 Wins
+- Reaper : 999 Wins
 
 badge or gamepass
-Jacko : Badge
-Santa : Badge
-King Sans : 475 Wins + gamepass
-Sixbone : 150 wins + gamepass
-Neo alphys and mettaton : gamepass + 300 Wins
+- Jacko : Badge
+- Santa : Badge
+- King Sans : 475 Wins + gamepass
+- Sixbone : 150 wins + gamepass
+- Neo alphys and mettaton : gamepass + 300 Wins
 
 
 
 
 shit to keep in mind
-power rangers skin for little
-BallonBoy skin for little _ no idea for 5th up_
+- power rangers skin for little
+- BallonBoy skin for little _ no idea for 5th up_
 
 
 thing proposed by wd that could coem to ulc 2
-Gaster blaster sans
-Understeam sans
-Underkeep sans
-Oceantale
-Dancetale
-Gastale
+- Gaster blaster sans
+- Understeam sans
+- Underkeep sans
+- Oceantale
+- Dancetale
+- Gastale
