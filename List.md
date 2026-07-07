@@ -1,33 +1,33 @@
 # Sans Team:
-Pacifist Sans:Free
-Little : ????
-Negatale Sans : 5 Wins
-Horror Sans : 10 Wins
-Swap Sans :15 Wins
-Papyrus : 15 Wins
-Sans  : 25 Wins
-US Papyrus : 25 Wins
-Fell Sans : 40 Wins
-Outer Sans : 60 Wins
-LB : 90 Wins + Some EXP on snas man
-Disbeef : 130 Wins (to compensate the lack of badge)
-Distrust :120 Wins + swap snasn badge
-FSE : 160 Wins
-DustSwap Papyrus :  200 Wins + exp on swap Papyrus 
-TS Papyrus : 250 Wins
-Dust Sans: 300 Wins + EXP on snas man
-Fresh : 350 Wins 
-Hardtale sans : 400 wins
-After : 450 Wins
-Revenge : 500 wins
-SSC : 550 Wins
-SwapFell Ppayrus : 600 Wins
-Killer : 650 Wins
-Insanity : 700 Wins
-Epic : 800 Wins
-Hyper : 900 Wins + hyperdust badge
-Error : 950 Wins
-Ink: 950 wins
+- Pacifist Sans:Free
+- Little : ????
+- Negatale Sans : 5 Wins
+- Horror Sans : 10 Wins
+- Swap Sans :15 Wins
+- Papyrus : 15 Wins
+- Sans  : 25 Wins
+- US Papyrus : 25 Wins
+- Fell Sans : 40 Wins
+- Outer Sans : 60 Wins
+- LB : 90 Wins + Some EXP on snas man
+- Disbeef : 130 Wins (to compensate the lack of badge)
+- Distrust :120 Wins + swap snasn badge
+- FSE : 160 Wins
+- DustSwap Papyrus :  200 Wins + exp on swap Papyrus 
+- TS Papyrus : 250 Wins
+- Dust Sans: 300 Wins + EXP on snas man
+- Fresh : 350 Wins 
+- Hardtale sans : 400 wins
+- After : 450 Wins
+- Revenge : 500 wins
+- SSC : 550 Wins
+- SwapFell Ppayrus : 600 Wins
+- Killer : 650 Wins
+- Insanity : 700 Wins
+- Epic : 800 Wins
+- Hyper : 900 Wins + hyperdust badge
+- Error : 950 Wins
+- Ink: 950 wins
 
 Reset :
 Axetale Sans : 5 Wins
