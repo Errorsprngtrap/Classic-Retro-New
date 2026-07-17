@@ -10,11 +10,11 @@ Passive :
 Attacks:
 - [ ] Rush of bone :
       main :send a classic rush of bone 
-- [ ] bonejump:
-      main : launch a bonejump if the jump is still on the map after é sec you can press the attack again to make the bone from the jump, target random chara member
+- [ ] bone jump:
+      main : launch a bone jump if the jump is still on the map after é sec you can press the attack again to make the bone from the jump, target random chara member
 - [ ] Force :
       send player away (toward where your looking)
-      alt human : if hit sans will counter chara by impaling them with a bone , in case of low tam sans just throw away he chara which make tem bounce (give iframe to chara in that case), if sans miss he will use the stamina that the attack is supposed to consume and use the amount of stam a full dodge take + 5
+      alt human : if hit sans will counter chara by impaling them with a bone , in case of low tam sans just throw away he chara which make tem bounce (give Iframe to chara in that case), if sans miss he will use the stamina that the attack is supposed to consume and use the amount of stam a full dodge take + 5
       alt projectile: just send back the projectile use 5 stam if sans miss he will dodge and loose 5 extra stam
 - [ ] We really needed a map attack uh?:
       main platform star to come from the wall before the floor get covered of bone (during that moment sans stam regen will not be able to gap above half )
@@ -24,8 +24,8 @@ Attacks:
       Alt: summon a big blaster above sans that will follow your mouse for 5 sec if you dont press your mouse before those 5 sec the blaster will fire automatically
 - [ ] Throw the bone:
       let you throw up to 4 bone in chain :
-      bone mode 1 when the bone hit the floor spawn 3 blaster that will blast around where the bone fall
-      bone mode @ spawns a bonezone where the bone have fall
+      bone mode 1: when the bone hit the floor spawn 3 blaster that will blast around where the bone fall
+      bone mode 2: spawns a bonezone where the bone have fall
 - [ ] Dont say i didn't warn you :
       a circle appear around where sans click and do warning thing for like 2 sec if a chara is in it they get force in the air blasted then unforced
 
