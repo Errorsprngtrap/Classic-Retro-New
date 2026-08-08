@@ -56,4 +56,15 @@ Attacks:
 - [ ] Quick blaster :
       Normal :Summon a medium Big blaster up to 4 time before going on big cd those blaster fire quickly and dont linger
       Pattern mode : let ya summon them in + or x shape 
-- [ ] 
+- [ ] Bonerush :
+      Send a lot of bone and blue bone (most of the blue bone should be further away from the white one , if you get hit by the blue one extra bone will be fired on you from random place)each time you get hit its increase the punnishement 
+      1 hit : bone are a tad faster
+      2: extra bone , they are a tad faster 
+      3: some boen are bigger and spawn mini bonezone (thoose come from teh sky)
+      4: a bonezone will always spawn on the player
+      5: a blaster will always fire on ya 
+      6 : blaster will fire on ya ina  + or x shape
+      7 : nothing extar happend
+      8 : each bone attack fire extar bone on ya 
+      9 : all blaster attack spawn extra attack on ya 
+      10 : extra blaster will spawn on your team mate when you hit a blue bone
