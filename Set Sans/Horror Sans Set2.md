@@ -9,15 +9,16 @@ Passive :
 3. Durable Weapon : Weapon have a durability they will break after a bit
 4. triple mode : Magic ,Manual, Weapon
 5. Reduced Damage : you cannot receive more then 70 hp damage
+6. Magic drain : attack with the magic tag drain your magic bar reducing said type of attack effectiveness magic drain will increase strongly your hunger
+7. Eat : some attack or people dying will drop body part you can use to reduce your hunger and increase your magic bar
 
 Weapon list:
 1. Axe  (durable)
-2. Machete (fast)
-3. Thigh Bone (Cannot be found on the map naturally)
-4. Pickaxe (Brute force)
-5. Harpon (Range ++)
-6. Iron Spear (Range)
-7. Launchable Dagger (Cannot be found on the map naturally)
+2. Thigh Bone (Cannot be found on the map naturally)
+3. Pickaxe (Brute force)
+4. Harpon (Range ++)
+5. Iron Spear (Range)
+6. Launchable Dagger (Cannot be found on the map naturally)
 
 Special Ability 
 E [ ] Thigh Bone:
@@ -28,20 +29,19 @@ R [ ] Dagger (Upgrade locked):
 Attacks:
 
 1. [ ] Thigh Bone:
-       Work in any mode as long as you dont have any weapon
+       Work in any mode as long as you dont have any weapon (magic)
 2. [ ] Trap :
        Beartrap : Anyone that walk in it get stun for 3 sec then slowed for a bit 
        Blue Snow : send blue snow toward the opponent if they get hit they get a small slowness effect and there stamina get drain 
 3. [ ] Bone : 
-       create a zone of bone
-       send a wave of bone
-4. [ ] Charge:
-       NoWeapon:Charge infront of ya if you hit a player you pierce tehyre eye rendering them blind temporary
-       Axe :
-       Machete : charge infront of ya swinging your weapon everywhere  (after that you get stun for a sec and have less defense)
-       TBone : charge Infront of ya before slamming your weapon in the ground releasing bone around the impact point at very high speed (during the slam you stun and get negative defense)
-       Pickaxe
-       Harpon
-       IronSpear : charge spear in hand toward where you look empaling anyone in the way causing bleed (if you hit a wall you get stun for 2 sec)
+       create a zone of bone (magic)
+       send a wave of bone (magic)
+4. [ ] Attack 1 :
+       NoWeapon: grab your opponent and break temporary theyre arm (increase weapon and abilitues cd)
+       Machete : very simple m1 that cause ennemy to bleed
+       TBone : Hit people semding them away
+       Pickaxe : 
+       Harpon : shoot your harpon where you click, if it land on a player  you will drag then quickly toward ya , if its an head shot you just do high damage
+       IronSpear : Charge infront of you impaling anyone infront of ya (you only stop when you hit a wall structure ect)
        
 Upgrades:
