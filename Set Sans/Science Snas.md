@@ -3,6 +3,7 @@ Stamina : 120
 Dodge : No
 Defense 0.01 :
 
+When science have dialogue he talk like fucking brainstorm
 Passive :
 	
 
