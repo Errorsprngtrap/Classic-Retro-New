@@ -28,3 +28,10 @@ Upgrades:
 3. [ ] c
 4. [ ] m
 5. [ ] n
+       
+       
+       
+       
+       h
+
+idea : an upgrade where when a player walk on a flask puddle teh effect they have can be transmitted to another chara if they are too close 
