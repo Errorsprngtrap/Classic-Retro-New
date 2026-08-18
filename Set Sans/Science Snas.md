@@ -35,3 +35,11 @@ Upgrades:
        h
 
 idea : an upgrade where when a player walk on a flask puddle teh effect they have can be transmitted to another chara if they are too close 
+
+
+turret that shoot on the furthest away player and stop if all the player are too close (so sans cannot camp in it)
+
+multiple flask : posion , slow , feeze , burn
+
+mopre emchanical based attack
+
