@@ -1,1 +1,1 @@
-if a chara team get damaged during thge use of an item of heal said item will fall on teh floor loosing part of its healing effect
+if a chara team get damaged during the use of an item of heal said item will fall on the floor loosing part of its healing effect

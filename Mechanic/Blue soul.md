@@ -1,1 +1,1 @@
-Make you able to jump a bit highe rbut increase the jump cd by 1 sec 
+Make you able to jump a bit higher brut increase the jump cd by 1 sec 
