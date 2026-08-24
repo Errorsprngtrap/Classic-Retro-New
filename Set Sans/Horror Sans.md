@@ -25,5 +25,6 @@ Attacks:
 	5. [ ] gotch ya:
 	       axe on: grab the human and slam them with his axe away 
 	       axe off : sans put his finger in the human eye blinding them for a bit
-	6. [ ] 
+	6. [ ] Blue soul:
+	       create a wave of energy infront of ya after a short windup , everyrone in the energy range get move up before getting some o theyre bone crush (can lead to different effect + bleed)
 Upgrades:
