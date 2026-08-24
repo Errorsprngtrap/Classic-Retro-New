@@ -7,6 +7,8 @@ Passive :
 	Tired magic : The longer the fight goes the more is melee power increase but at the same time is magic attack potential decrease
 	Axe passive: sans have some move where his axe get in the player if that happen the player get manually remove it (when its remove it fall on the ground)
 	Axe out / axe off : you can i you have an axe go in axe mode or axe on , and if you dont have an axe well you just go in axe off
+	Fast as fuck boy : sans his a tad faster then other sans
+	Low regen : horror gain back far less stamnina then other sans
 
 Finisher :
 	Head snap : use your weapon to 180 degree a chara head
